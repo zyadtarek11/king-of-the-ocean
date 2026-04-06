@@ -14,7 +14,7 @@ Imagine that you are a fish named nemo, and your goal is to helpgrow bigger by e
 
 2. make sure you have installed pyhon3 and you have pygame zero installed, You can install python3 from microsoft store or the official python website (this game is made using python 3.13.7) but typically and version of python3 will work fine with you, and you can install py game zero using this command in your terminal `pip install pgzero`
 
-3. after you have installed python3 and pygame zero, you can run the game by running the command `pgzrun main.py` in your terminal, make sure you are in the correct directory where the main.py file is located
+3. after you have installed python3 and pygame zero, you can run the game by clicking on the run button on your text editor or simply by hitting `pgzrun main.py` in your terminal, make sure you are in the correct directory where the main.py file is located
 
 
 That's it, Have fun and enjoy the game :)

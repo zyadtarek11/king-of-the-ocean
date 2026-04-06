@@ -4,7 +4,7 @@ from shark import Shark
 from octopus import Octopus
 import random # important to spawn random fishes, not just a unified color
 
-WIDTH = 768
+WIDTH = 1024
 HEIGHT = 600
 TITLE = "King of the ocean"
 # menu buttons dimesntions and positions

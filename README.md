@@ -1,13 +1,14 @@
 # Welcome to the King Of Ocean Game 🐠
+![alt text](image.png)
 
-Imagine that you are a fish named nemo, and your goal is to helpgrow bigger by eating smaller fish and avoiding the big ones, untill you becomes the king of the ocean and rule the ocean forever, can you make it? well let's find out 😎
+Imagine that you are a fish named nemo, and your goal is to helpgrow bigger by eating smaller fish and avoiding the dangeroues ones, untill you becomes the king of the ocean and rule the ocean forever, can you make it? well let's find out 😎
 
 ## How to play this game?
 1. use the arrow key to control nemo's movement, Ex. left arrow key to move left or right arrow key to move right
 
-2. eat the smaller fish to gain more points and grow bigger, but be carful from the bigger one and the poisonus one
+2. eat the smaller fish to gain more points and grow bigger, but be carful from the shark and the octopus
 
-3. the game will end if nemo grows enough and gain 1000 points
+3. the game will end if nemo grows enough and gain 300 points
 
 ## How to run this game?
 1. clone this repository to your local computer using git clone: `git clone https://github.com/zyadtarek11/king-of-the-ocean.git`
